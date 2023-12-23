@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer | Filmmaker | Content Creator
 ----------------------------------------------------------
 
-Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean , maintainable and accessible code, with excellent analytical and technical programming skills.
+Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [joravarsinghpunia91@gmail.com](mailto:joravarsinghpunia91@gmail.com)
