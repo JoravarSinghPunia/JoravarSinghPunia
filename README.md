@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Joravar Singh Punia! 👳🏾‍♂️
+### Hi there 👋 my name is Joravar Singh Punia! 👳🏾‍♂️🪯
 
 <!--
 **JoravarSinghPunia/JoravarSinghPunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
