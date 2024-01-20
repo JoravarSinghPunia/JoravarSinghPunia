@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joravar Singh Punia 👳🏾‍♂️ 🪯
-======================================================================================================================================================
+<div align="center">
 
-Full-Stack Software Engineer | Technology Consultant | Content Creator
-----------------------------------------------------------
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joravar Singh Punia 👳🏾‍♂️ 🪯
+
+</div>
 
 Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.
 
@@ -42,7 +42,7 @@ Software Engineer with knowledge in design, development, and testing. Adept in J
 
 
 
-<h2><b>Quick stats about me</b></h2>
+<h2><b>Stats</b></h2>
 
 <div align="center">
 
