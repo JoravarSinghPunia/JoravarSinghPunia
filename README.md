@@ -1,12 +1,14 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Joravar</h1>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Joravar! 👳🏾‍♂️ 
+<h3 align="center">Software Engineer | Technology Consultant | Content Creator </h3>
 
-</div>
+<h3></h3>
 
 <div align="left">
   <p>Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.</p>
 </div>
+
+
 <div>
   <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="30%" /><br>
   
@@ -52,7 +54,7 @@
 
 <div align="center">
   
-[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API&theme=solarized-light)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
+[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API&theme=graywhite)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
 
 </div>
 
@@ -63,7 +65,7 @@
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs&theme=solarized-light) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true&theme=solarized-light) |
+| ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs&theme=graywhite) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true&theme=graywhite) |
 
 </div>
 
