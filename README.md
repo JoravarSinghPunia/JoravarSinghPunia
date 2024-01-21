@@ -54,7 +54,7 @@
 
 <div align="center">
   
-[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API&theme=graywhite)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
+[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs&theme=graywhite) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true&theme=graywhite) |
+| ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true) |
 
 </div>
 
