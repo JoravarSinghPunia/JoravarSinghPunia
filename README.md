@@ -22,6 +22,15 @@
 </div>
 
 
+<h2><b>My Projects</b></h2>
+
+<div align="center">
+  
+[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
+
+</div>
+
+
 
 <h2><b>Skills</b></h2>
 
@@ -46,14 +55,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="psql logo"  />
   <img width="12" />
-</div>
-
-<h2><b>My Projects</b></h2>
-
-<div align="center">
-  
-[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
-
 </div>
 
 
