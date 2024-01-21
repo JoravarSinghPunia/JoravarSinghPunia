@@ -1,16 +1,24 @@
 <div align="center">
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Joravar! 👳🏾‍♂️ 🪯
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Joravar! 👳🏾‍♂️ 
 
 </div>
 
-Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.
+<div align="left">
+  <p>Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.</p>
+</div>
+<div>
+  <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="30%" /><br>
+  
+  <ul>
+    <li>🌍 I'm based in London, UK</li>
+    <li>✉️ You can contact me at <a href="mailto:joravarsinghpunia91@gmail.com">joravarsinghpunia91@gmail.com</a></li>
+    <li>🧠 I'm learning JavaScript • Python • React.JS • Node.JS • JEST • SQL • GIT</li>
+    <li>🤝 I'm open to collaborating on other projects!</li>
+    <li>⚡ I make YouTube videos on tech!</li>
+  </ul>
+</div>
 
-* 🌍  I'm based in London, UK
-* ✉️  You can contact me at [joravarsinghpunia91@gmail.com](mailto:joravarsinghpunia91@gmail.com)
-* 🧠  I'm learning JavaScript • Python • React.JS • Node.JS • JEST • SQL • GIT
-* 🤝  I'm open to collaborating on other projects!
-* ⚡  I make YouTube videos on tech!
 
 
 <h2><b>Skills</b></h2>
@@ -40,6 +48,13 @@ Software Engineer with knowledge in design, development, and testing. Adept in J
   <img width="12" />
 </div>
 
+<h2><b>My Projects</b></h2>
+
+<div align="center">
+  
+[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API&theme=solarized-light)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
+
+</div>
 
 
 <h2><b>Stats</b></h2>
@@ -48,7 +63,7 @@ Software Engineer with knowledge in design, development, and testing. Adept in J
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Joravar's github stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs&theme=solarized-light) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true&theme=solarized-light) |
 
 </div>
 
