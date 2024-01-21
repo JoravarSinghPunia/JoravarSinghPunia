@@ -14,10 +14,11 @@
   
   <ul>
     <li>🌍 I'm based in London, UK</li>
-    <li>✉️ You can contact me at <a href="mailto:joravarsinghpunia91@gmail.com">joravarsinghpunia91@gmail.com</a></li>
+    <li>⚡ I make YouTube videos on tech!</li>
     <li>🧠 I'm learning JavaScript • Python • React.JS • Node.JS • JEST • SQL • GIT</li>
     <li>🤝 I'm open to collaborating on other projects!</li>
-    <li>⚡ I make YouTube videos on tech!</li>
+    <li>✉️ You can contact me at <a href="mailto:joravarsinghpunia91@gmail.com">joravarsinghpunia91@gmail.com</a></li>
+
   </ul>
 </div>
 
