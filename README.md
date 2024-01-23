@@ -54,7 +54,7 @@
 
 | Backend API  | Frontend card matcher |
 | --- | --- |
-| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FE-SIMPLE-CARD-GAME)](https://github.com/JoravarSinghPuniaFE-SIMPLE-CARD-GAME) |
+| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FE-SIMPLE-CARD-GAME)](https://github.com/JoravarSinghPunia/FE-SIMPLE-CARD-GAME) |
 
 </div>
 
