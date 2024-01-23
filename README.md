@@ -10,7 +10,7 @@
 
 
 <div>
-  <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="30%" /><br>
+  <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="20%" /><br>
   
   <ul>
     <li>🌍 I'm based in London, UK</li>
@@ -21,16 +21,6 @@
 
   </ul>
 </div>
-
-
-<h2><b>My Projects</b></h2>
-
-<div align="center">
-  
-[![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API)
-
-</div>
-
 
 
 <h2><b>Skills</b></h2>
@@ -58,6 +48,15 @@
   <img width="12" />
 </div>
 
+<h2><b>My Projects</b></h2>
+
+<div align="center">
+
+| Backend API  | Simple Frontend card matcher |
+| --- | --- |
+| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FE-SIMPLE-CARD-GAME)](https://github.com/JoravarSinghPuniaFE-SIMPLE-CARD-GAME) |
+
+</div>
 
 <h2><b>Stats</b></h2>
 
