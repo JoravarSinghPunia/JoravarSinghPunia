@@ -54,7 +54,7 @@
 
 | Backend News API  | Frontend using News API |
 | --- | --- |
-| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | 
+| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar frontend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FRONTEND-NEWS-API)](https://github.com/JoravarSinghPunia/FRONTEND-NEWS-API) |
 
 </div>
 
