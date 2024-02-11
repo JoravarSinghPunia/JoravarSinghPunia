@@ -52,9 +52,9 @@
 
 <div align="center">
 
-| Backend API  | Frontend card matcher |
+| Backend News API  | Frontend using News API |
 | --- | --- |
-| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FE-SIMPLE-CARD-GAME)](https://github.com/JoravarSinghPunia/FE-SIMPLE-CARD-GAME) |
+| [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=BACKEND-NEWS-API)](https://github.com/JoravarSinghPunia/BACKEND-NEWS-API) | [![Joravar backend project card](https://github-readme-stats.vercel.app/api/pin/?username=joravarsinghpunia&repo=FRONTEND-NEWS-API)](https://github.com/JoravarSinghPunia/FRONTEND-NEWS-API) |
 
 </div>
 
