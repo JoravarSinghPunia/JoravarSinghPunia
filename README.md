@@ -5,7 +5,7 @@
 <h3></h3>
 
 <div align="left">
-  <p>Software Engineer with knowledge in design, development, and testing. Adept in JavaScript, Python, JS libraries and writing clean, maintainable and accessible code, with excellent analytical and technical programming skills.</p>
+  <p>Software Engineer with knowledge in design, development, and testing, with a focus on writing clean, maintainable and accessible code</p>
 </div>
 
 
