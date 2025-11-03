@@ -4,48 +4,44 @@
 
 <h3></h3>
 
-<div align="left">
-  <p>Software Engineer with knowledge in design, development, and testing, with a focus on writing clean, maintainable and accessible code</p>
+<div align="center">
+<p>Software Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former Technology Consultant at <a href="https://www.ey.com/en_uk" target="_blank">EY</a>. Experienced in designing, developing, and testing scalable software solutions with a focus on writing clean, maintainable, and accessible code.</p>
 </div>
+<br>
 
 
 <div>
-  <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="20%" /><br>
-  
+  <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="20%"><br>
   <ul>
     <li>🌍 I'm based in London, UK</li>
     <li>⚡ I make YouTube videos on tech!</li>
-    <li>🧠 I'm learning JavaScript • Python • React.JS • Node.JS • JEST • SQL • GIT</li>
     <li>🤝 I'm open to collaborating on other projects!</li>
     <li>✉️ You can contact me at <a href="mailto:joravarsinghpunia91@gmail.com">joravarsinghpunia91@gmail.com</a></li>
-
   </ul>
+  <br>
 </div>
 
 
 <h2><b>Skills</b></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="psql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
+  
 </div>
 
 <h2><b>My Projects</b></h2>
