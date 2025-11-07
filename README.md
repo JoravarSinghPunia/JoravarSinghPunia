@@ -44,7 +44,7 @@
   
 </div>
 
-<h2><b>My Projects</b></h2>
+<!-- <h2><b>My Projects</b></h2>
 
 <div align="center">
 
@@ -63,6 +63,6 @@
 | --- | --- |
 | ![Joravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joravarsinghpunia&show_icons=true&hide=stars,issues,contribs) | ![Joravar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joravarsinghpunia&layout=donut&show_icons=true) |
 
-</div>
+</div> -->
 
 
