@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Joravar</h1>
 
-<h3 align="center">Software Engineer | Technology Consultant | Content Creator </h3>
+<h3 align="center"> AI Engineer | Technology Consultant | Content Creator </h3>
 
 <h3></h3>
 
 <div align="center">
-<p>Software Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former Technology Consultant at <a href="https://www.ey.com/en_uk" target="_blank">EY</a>. Experienced in designing, developing, and testing scalable software solutions with a focus on writing clean, maintainable, and accessible code.</p>
+<p>Software Engineer turned AI Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former Technology Consultant at <a href="https://www.ey.com/en_uk" target="_blank">EY</a>. Experienced in designing, developing, and testing scalable software solutions with a focus on writing clean, maintainable, and accessible code.</p>
 </div>
 <br>
 
@@ -14,9 +14,8 @@
   <img align="right" src="https://media.giphy.com/media/GzRz3AoOrUfQtQ1Qb1/giphy.gif" alt="404" width="20%"><br>
   <ul>
     <li>🌍 I'm based in London, UK</li>
-    <li>⚡ I make YouTube videos on tech!</li>
+    <li>⚡ I make content on tech!</li>
     <li>🤝 I'm open to collaborating on other projects!</li>
-    <li>✉️ You can contact me at <a href="mailto:joravarsinghpunia91@gmail.com">joravarsinghpunia91@gmail.com</a></li>
   </ul>
   <br>
 </div>
