@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋 I'm Joravar</h1>
-
-<h3 align="center"> AI Engineer | Technology Consultant | Content Creator </h3>
-
-<h3></h3>
-
 <div align="center">
-<p>Software Engineer turned AI Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former Technology Consultant at <a href="https://www.ey.com/en_uk" target="_blank">EY</a>. Experienced in designing, developing, and testing scalable software solutions with a focus on writing clean, maintainable, and accessible code.</p>
+  <p>
+AI Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former Technology Consultant at <a href="https://www.ey.com/en_uk" target="_blank">EY</a>. </p>
+<p>Building <a href="https://arkanine.ai/" target="_blank">Arkanine</a> - The self improving, air-gapped AI system that runs entirely on your existing infrastructure. Trained on your own documents with no internet connection, and no data leaving the building.</p>
 </div>
 <br>
 
