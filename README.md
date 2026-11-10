@@ -15,8 +15,9 @@ AI Engineer at <a href="https://www.sky.com" target="_blank">Sky</a> and former 
     <li>🤝 I'm open to collaborating on other projects!</li>
   </ul>
   <br>
-</div>
-
+  
+<br>
+<br>
 
 <h2><b>Skills</b></h2>
 
